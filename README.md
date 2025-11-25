@@ -12,7 +12,7 @@ It allows users to register, authenticate, explore movies, and receive intellige
     ```
 
 2. **Backend Setup**
-    1. Navigate to the backend directory:
+    1. Navigate to the server directory:
         ```bash
         cd server/magic-stream-movies-server
         ```

@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	utils "github.com/raghuvansh-sahil/magic-stream-movies/server/magic-stream-movies-server/utils"
+	utils "github.com/anandbhardwaj456/movie-streaming/tree/main/server/magic-stream-movies-server/utils"
 )
 
 func AuthMiddleware() gin.HandlerFunc {

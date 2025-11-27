@@ -6,9 +6,9 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	database "github.com/raghuvansh-sahil/magic-stream-movies/server/magic-stream-movies-server/database"
-	models "github.com/raghuvansh-sahil/magic-stream-movies/server/magic-stream-movies-server/models"
-	utils "github.com/raghuvansh-sahil/magic-stream-movies/server/magic-stream-movies-server/utils"
+	database "github.com/anandbhardwaj456/movie-streaming/tree/main/server/magic-stream-movies-server/database"
+	models "github.com/anandbhardwaj456/movie-streaming/tree/main/server/magic-stream-movies-server/models"
+	utils "github.com/anandbhardwaj456/movie-streaming/tree/main/server/magic-stream-movies-server/utils"
 	"go.mongodb.org/mongo-driver/v2/bson"
 	"go.mongodb.org/mongo-driver/v2/mongo"
 	"golang.org/x/crypto/bcrypt"

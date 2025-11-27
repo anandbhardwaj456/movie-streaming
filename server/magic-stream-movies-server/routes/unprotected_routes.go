@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gin-gonic/gin"
-	controllers "github.com/raghuvansh-sahil/magic-stream-movies/server/magic-stream-movies-server/controllers"
+	controllers "github.com/anandbhardwaj456/movie-streaming/tree/main/server/magic-stream-movies-server/controllers"
 	"go.mongodb.org/mongo-driver/v2/mongo"
 )
 

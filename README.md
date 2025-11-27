@@ -7,7 +7,8 @@ It allows users to register, authenticate, explore movies, and receive intellige
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/raghuvansh-sahil/magic-stream-movies
+    git clone github.com/anandbhardwaj456/movie-streaming
+
     cd magic-stream-movies
     ```
 

@@ -2,8 +2,8 @@ package routes
 
 import (
 	"github.com/gin-gonic/gin"
-	controllers "github.com/raghuvansh-sahil/magic-stream-movies/server/magic-stream-movies-server/controllers"
-	middleware "github.com/raghuvansh-sahil/magic-stream-movies/server/magic-stream-movies-server/middleware"
+	controllers "github.com/anandbhardwaj456/movie-streaming/tree/main/server/magic-stream-movies-server/controllers"
+	middleware "github.com/anandbhardwaj456/movie-streaming/tree/main/server/magic-stream-movies-server/middleware"
 	"go.mongodb.org/mongo-driver/v2/mongo"
 )
 

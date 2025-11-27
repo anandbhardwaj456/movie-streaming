@@ -11,8 +11,8 @@ import (
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"
-	database "github.com/raghuvansh-sahil/magic-stream-movies/server/magic-stream-movies-server/database"
-	routes "github.com/raghuvansh-sahil/magic-stream-movies/server/magic-stream-movies-server/routes"
+	database "github.com/anandbhardwaj456/movie-streaming/tree/main/server/magic-stream-movies-server/database"
+	routes "github.com/anandbhardwaj456/movie-streaming/tree/main/server/magic-stream-movies-server/routes"
 	"go.mongodb.org/mongo-driver/v2/mongo"
 )
 

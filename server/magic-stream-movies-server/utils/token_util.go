@@ -8,7 +8,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 	jwt "github.com/golang-jwt/jwt/v5"
-	database "github.com/raghuvansh-sahil/magic-stream-movies/server/magic-stream-movies-server/database"
+	database "github.com/anandbhardwaj456/movie-streaming/tree/main/server/magic-stream-movies-server/database"
 	"go.mongodb.org/mongo-driver/v2/bson"
 	"go.mongodb.org/mongo-driver/v2/mongo"
 )
